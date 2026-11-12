@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://junekorea.github.io/luckinfish/sitemap.xml
